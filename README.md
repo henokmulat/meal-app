@@ -19,16 +19,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/200x400?text=Home+Screen" alt="Home Screen" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Details+Screen" alt="Details Screen" width="200"/>
-  <img src="https://via.placeholder.com/200x400?text=Cart+Screen" alt="Cart Screen" width="200"/>
-</p>
-
----
-
 ## 🛠️ Built With
 
 * [Flutter](https://flutter.dev/) - The UI toolkit for building native apps.
